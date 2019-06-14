@@ -3,8 +3,7 @@ title: alarmrenderactivity
 ---
 
 # alarmrenderactivity
-This activity allows render json using Alarm schema in XMLParserActivity code
-
+This activity allows render Alarm json using defined Alarm schema
 ## Installation
 ### Flogo CLI
 ```bash
